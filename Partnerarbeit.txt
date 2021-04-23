@@ -1,3 +1,9 @@
 Zeile 1
 zeile 2 khatab
+<<<<<<< HEAD
 Zeile 3 Tyrakowski x
+=======
+Zeile 3 Tyrakowski
+Zeile 4 Khatab
+>>>>>>> 765ac6e9cf2071f67dd9d7ac8cf5fe41cba46aa0
+Zeile 5 Tyrakowski
